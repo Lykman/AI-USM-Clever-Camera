@@ -1,7 +1,7 @@
-<h1 align="center">Deep-Live-Cam</h1>
+<h1 align="center">AI USM</h1>
 
 <p align="center">
-  Real-time face swap and video deepfake with a single click and only a single image.
+  Система смены лиц в режиме реального времени с одним кликом и использованием всего одного изображения.
 </p>
 
 <p align="center">
@@ -12,190 +12,190 @@
   <img src="media/demo.gif" alt="Demo GIF" width="800">
 </p>
 
-##  Disclaimer
+##  Предупреждение
 
-This deepfake software is designed to be a productive tool for the AI-generated media industry. It can assist artists in animating custom characters, creating engaging content, and even using models for clothing design.
+Данное программное обеспечение для замены лиц разработано как продуктивный инструмент для индустрии медиа, созданных с помощью ИИ. Оно может помочь художникам в анимации персонажей, создании привлекательного контента и даже использовании моделей для дизайна одежды.
 
-We are aware of the potential for unethical applications and are committed to preventative measures. A built-in check prevents the program from processing inappropriate media (nudity, graphic content, sensitive material like war footage, etc.). We will continue to develop this project responsibly, adhering to the law and ethics. We may shut down the project or add watermarks if legally required.
+Мы осознаем потенциал неэтичного применения и привержены превентивным мерам. Встроенная проверка предотвращает обработку неприемлемых материалов (обнаженные тела, графический контент, чувствительные материалы, такие как кадры военных действий и т.д.). Мы продолжим ответственно развивать этот проект, соблюдая закон и этику. Мы можем прекратить проект или добавить водяные знаки, если это потребуется по закону.
 
-- Ethical Use: Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online.
+- Этичное использование: Ожидается, что пользователи будут использовать это программное обеспечение ответственно и законно. При использовании лица реального человека получите его согласие и четко обозначьте любой результат как дипфейк при публикации в интернете.
 
-- Content Restrictions: The software includes built-in checks to prevent processing inappropriate media, such as nudity, graphic content, or sensitive material.
+- Ограничения контента: Программное обеспечение включает встроенные проверки для предотвращения обработки неприемлемых материалов, таких как обнаженные тела, графический контент или чувствительные материалы.
 
-- Legal Compliance: We adhere to all relevant laws and ethical guidelines. If legally required, we may shut down the project or add watermarks to the output.
+- Соблюдение законов: Мы придерживаемся всех соответствующих законов и этических руководств. Если это потребуется по закону, мы можем прекратить проект или добавить водяные знаки к результатам.
 
-- User Responsibility: We are not responsible for end-user actions. Users must ensure their use of the software aligns with ethical standards and legal requirements.
+- Ответственность пользователя: Мы не несем ответственности за действия конечного пользователя. Пользователи должны убедиться, что их использование программного обеспечения соответствует этическим стандартам и правовым требованиям.
 
-By using this software, you agree to these terms and commit to using it in a manner that respects the rights and dignity of others.
+Используя это программное обеспечение, вы соглашаетесь с этими условиями и обязуетесь использовать его способом, уважающим права и достоинство других.
 
-Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online. We are not responsible for end-user actions.
+Ожидается, что пользователи будут использовать это программное обеспечение ответственно и законно. При использовании лица реального человека получите его согласие и четко обозначьте любой результат как дипфейк при публикации в интернете. Мы не несем ответственности за действия конечного пользователя.
 
-## Exclusive v2.0 Quick Start - Pre-built (Windows)
+## Краткое руководство AI USM - Предварительно собранная версия (Windows)
 
   <a href="https://deeplivecam.net/index.php/quickstart"> <img src="media/Download.png" width="285" height="77" />
 
-##### This is the fastest build you can get if you have a discrete NVIDIA or AMD GPU.
+##### Это самая быстрая сборка, которую вы можете получить, если у вас есть дискретная видеокарта NVIDIA или AMD.
  
-###### These Pre-builts are perfect for non-technical users or those who don't have time to, or can't manually install all the requirements. Just a heads-up: this is an open-source project, so you can also install it manually. This will be 60 days ahead on the open source version.
+###### Эти предварительно собранные версии идеальны для нетехнических пользователей или тех, у кого нет времени или возможности вручную установить все требования. Имейте в виду: это проект с открытым исходным кодом, поэтому вы также можете установить его вручную.
 
-## TLDR; Live Deepfake in just 3 Clicks
+## TLDR; Замена лиц в прямом эфире всего в 3 клика
 ![easysteps](https://github.com/user-attachments/assets/af825228-852c-411b-b787-ffd9aac72fc6)
-1. Select a face
-2. Select which camera to use
-3. Press live!
+1. Выберите лицо
+2. Выберите камеру для использования
+3. Нажмите Live!
 
-## Features & Uses - Everything is in real-time
+## Функции и применение - Всё в реальном времени
 
-### Mouth Mask
+### Маска рта
 
-**Retain your original mouth for accurate movement using Mouth Mask**
+**Сохраняйте ваш оригинальный рот для точного движения с помощью Маски рта**
 
 <p align="center">
   <img src="media/ludwig.gif" alt="resizable-gif">
 </p>
 
-### Face Mapping
+### Сопоставление лиц
 
-**Use different faces on multiple subjects simultaneously**
+**Используйте разные лица на нескольких субъектах одновременно**
 
 <p align="center">
   <img src="media/streamers.gif" alt="face_mapping_source">
 </p>
 
-### Your Movie, Your Face
+### Ваш фильм, Ваше лицо
 
-**Watch movies with any face in real-time**
+**Смотрите фильмы с любым лицом в реальном времени**
 
 <p align="center">
   <img src="media/movie.gif" alt="movie">
 </p>
 
-### Live Show
+### Прямой эфир
 
-**Run Live shows and performances**
+**Проводите живые шоу и выступления**
 
 <p align="center">
   <img src="media/live_show.gif" alt="show">
 </p>
 
-### Memes
+### Мемы
 
-**Create Your Most Viral Meme Yet**
+**Создайте свой самый вирусный мем**
 
 <p align="center">
   <img src="media/meme.gif" alt="show" width="450"> 
   <br>
-  <sub>Created using Many Faces feature in Deep-Live-Cam</sub>
+  <sub>Создано с использованием функции Multiple Faces в AI USM</sub>
 </p>
 
 ### Omegle
 
-**Surprise people on Omegle**
+**Удивляйте людей на Omegle**
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/2e9b9b82-fa04-4b70-9f56-b1f68e7672d0" width="450" controls></video>
 </p>
 
-## Installation (Manual)
+## Установка (Ручная)
 
-**Please be aware that the installation requires technical skills and is not for beginners. Consider downloading the prebuilt version.**
+**Обратите внимание, что установка требует технических навыков и не предназначена для начинающих. Рассмотрите возможность загрузки предварительно собранной версии.**
 
 <details>
-<summary>Click to see the process</summary>
+<summary>Нажмите, чтобы увидеть процесс</summary>
 
-### Installation
+### Установка
 
-This is more likely to work on your computer but will be slower as it utilizes the CPU.
+Этот вариант с большей вероятностью будет работать на вашем компьютере, но будет медленнее, так как использует CPU.
 
-**1. Set up Your Platform**
+**1. Настройте вашу платформу**
 
--   Python (3.10 recommended)
+-   Python (рекомендуется 3.10)
 -   pip
 -   git
 -   [ffmpeg](https://www.youtube.com/watch?v=OlNWCpFdVMA) - ```iex (irm ffmpeg.tc.ht)```
 -   [Visual Studio 2022 Runtimes (Windows)](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
-**2. Clone the Repository**
+**2. Клонируйте репозиторий**
 
 ```bash
-git clone https://github.com/hacksider/Deep-Live-Cam.git
-cd Deep-Live-Cam
+git clone https://github.com/yourusername/AI-USM.git
+cd AI-USM
 ```
 
-**3. Download the Models**
+**3. Загрузите модели**
 
 1. [GFPGANv1.4](https://huggingface.co/hacksider/deep-live-cam/resolve/main/GFPGANv1.4.pth)
 2. [inswapper\_128\_fp16.onnx](https://huggingface.co/hacksider/deep-live-cam/resolve/main/inswapper_128_fp16.onnx)
 
-Place these files in the "**models**" folder.
+Поместите эти файлы в папку "**models**".
 
-**4. Install Dependencies**
+**4. Установите зависимости**
 
-We highly recommend using a `venv` to avoid issues.
+Мы настоятельно рекомендуем использовать `venv` для избежания проблем.
 
 
-For Windows:
+Для Windows:
 ```bash
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
-For Linux:
+Для Linux:
 ```bash
-# Ensure you use the installed Python 3.10
+# Убедитесь, что вы используете установленный Python 3.10
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**For macOS:**
+**Для macOS:**
 
-Apple Silicon (M1/M2/M3) requires specific setup:
+Apple Silicon (M1/M2/M3) требует особой настройки:
 
 ```bash
-# Install Python 3.10 (specific version is important)
+# Установите Python 3.10 (конкретная версия важна)
 brew install python@3.10
 
-# Install tkinter package (required for the GUI)
+# Установите пакет tkinter (требуется для GUI)
 brew install python-tk@3.10
 
-# Create and activate virtual environment with Python 3.10
+# Создайте и активируйте виртуальное окружение с Python 3.10
 python3.10 -m venv venv
 source venv/bin/activate
 
-# Install dependencies
+# Установите зависимости
 pip install -r requirements.txt
 ```
 
-** In case something goes wrong and you need to reinstall the virtual environment **
+** В случае неполадок, если вам нужно переустановить виртуальное окружение **
 
 ```bash
-# Deactivate the virtual environment
+# Деактивируйте виртуальное окружение
 rm -rf venv
 
-# Reinstall the virtual environment
+# Переустановите виртуальное окружение
 python -m venv venv
 source venv/bin/activate
 
-# install the dependencies again
+# Установите зависимости снова
 pip install -r requirements.txt
 ```
 
-**Run:** If you don't have a GPU, you can run Deep-Live-Cam using `python run.py`. Note that initial execution will download models (~300MB).
+**Запуск:** Если у вас нет GPU, вы можете запустить AI USM используя `python run.py`. Обратите внимание, что при первом запуске будут загружены модели (~300MB).
 
-### GPU Acceleration
+### Ускорение GPU
 
 **CUDA Execution Provider (Nvidia)**
 
-1. Install [CUDA Toolkit 11.8.0](https://developer.nvidia.com/cuda-11-8-0-download-archive)
-2. Install dependencies:
+1. Установите [CUDA Toolkit 11.8.0](https://developer.nvidia.com/cuda-11-8-0-download-archive)
+2. Установите зависимости:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-gpu
 pip install onnxruntime-gpu==1.16.3
 ```
 
-3. Usage:
+3. Использование:
 
 ```bash
 python run.py --execution-provider cuda
@@ -203,49 +203,49 @@ python run.py --execution-provider cuda
 
 **CoreML Execution Provider (Apple Silicon)**
 
-Apple Silicon (M1/M2/M3) specific installation:
+Специфичная установка для Apple Silicon (M1/M2/M3):
 
-1. Make sure you've completed the macOS setup above using Python 3.10.
-2. Install dependencies:
+1. Убедитесь, что вы завершили настройку macOS выше с использованием Python 3.10.
+2. Установите зависимости:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-silicon
 pip install onnxruntime-silicon==1.13.1
 ```
 
-3. Usage (important: specify Python 3.10):
+3. Использование (важно: укажите Python 3.10):
 
 ```bash
 python3.10 run.py --execution-provider coreml
 ```
 
-**Important Notes for macOS:**
-- You **must** use Python 3.10, not newer versions like 3.11 or 3.13
-- Always run with `python3.10` command not just `python` if you have multiple Python versions installed
-- If you get error about `_tkinter` missing, reinstall the tkinter package: `brew reinstall python-tk@3.10`
-- If you get model loading errors, check that your models are in the correct folder
-- If you encounter conflicts with other Python versions, consider uninstalling them:
+**Важные примечания для macOS:**
+- Вы **должны** использовать Python 3.10, а не более новые версии, такие как 3.11 или 3.13
+- Всегда запускайте с командой `python3.10`, а не просто `python`, если у вас установлено несколько версий Python
+- Если вы получаете ошибку о том, что отсутствует `_tkinter`, переустановите пакет tkinter: `brew reinstall python-tk@3.10`
+- Если вы получаете ошибки загрузки моделей, проверьте, что ваши модели находятся в правильной папке
+- Если вы сталкиваетесь с конфликтами с другими версиями Python, рассмотрите возможность их удаления:
   ```bash
-  # List all installed Python versions
+  # Перечислите все установленные версии Python
   brew list | grep python
   
-  # Uninstall conflicting versions if needed
+  # При необходимости удалите конфликтующие версии
   brew uninstall --ignore-dependencies python@3.11 python@3.13
   
-  # Keep only Python 3.10
+  # Оставьте только Python 3.10
   brew cleanup
   ```
 
 **CoreML Execution Provider (Apple Legacy)**
 
-1. Install dependencies:
+1. Установите зависимости:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-coreml
 pip install onnxruntime-coreml==1.13.1
 ```
 
-2. Usage:
+2. Использование:
 
 ```bash
 python run.py --execution-provider coreml
@@ -253,14 +253,14 @@ python run.py --execution-provider coreml
 
 **DirectML Execution Provider (Windows)**
 
-1. Install dependencies:
+1. Установите зависимости:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-directml
 pip install onnxruntime-directml==1.15.1
 ```
 
-2. Usage:
+2. Использование:
 
 ```bash
 python run.py --execution-provider directml
@@ -268,121 +268,103 @@ python run.py --execution-provider directml
 
 **OpenVINO™ Execution Provider (Intel)**
 
-1. Install dependencies:
+1. Установите зависимости:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-openvino
 pip install onnxruntime-openvino==1.15.0
 ```
 
-2. Usage:
+2. Использование:
 
 ```bash
 python run.py --execution-provider openvino
 ```
 </details>
 
-## Usage
+## Использование
 
-**1. Image/Video Mode**
+**1. Режим изображения/видео**
 
--   Execute `python run.py`.
--   Choose a source face image and a target image/video.
--   Click "Start".
--   The output will be saved in a directory named after the target video.
+-   Выполните `python run.py`.
+-   Выберите исходное изображение лица и целевое изображение/видео.
+-   Нажмите "Начать".
+-   Результат будет сохранен в директории, названной по имени целевого видео.
 
-**2. Webcam Mode**
+**2. Режим веб-камеры**
 
--   Execute `python run.py`.
--   Select a source face image.
--   Click "Live".
--   Wait for the preview to appear (10-30 seconds).
--   Use a screen capture tool like OBS to stream.
--   To change the face, select a new source image.
+-   Выполните `python run.py`.
+-   Выберите исходное изображение лица.
+-   Нажмите "Прямой эфир".
+-   Дождитесь появления предпросмотра (10-30 секунд).
+-   Используйте инструмент захвата экрана, например OBS, для стриминга.
+-   Чтобы изменить лицо, выберите новое исходное изображение.
 
-## Tips and Tricks
+## Советы и хитрости
 
-Check out these helpful guides to get the most out of Deep-Live-Cam:
+Ознакомьтесь с этими полезными руководствами, чтобы максимально эффективно использовать AI USM:
 
-- [Unlocking the Secrets to the Perfect Deepfake Image](https://deeplivecam.net/index.php/blog/tips-and-tricks/unlocking-the-secrets-to-the-perfect-deepfake-image) - Learn how to create the best deepfake with full head coverage
-- [Video Call with DeepLiveCam](https://deeplivecam.net/index.php/blog/tips-and-tricks/video-call-with-deeplivecam) - Make your meetings livelier by using DeepLiveCam with OBS and meeting software
-- [Have a Special Guest!](https://deeplivecam.net/index.php/blog/tips-and-tricks/have-a-special-guest) - Tutorial on how to use face mapping to add special guests to your stream
-- [Watch Deepfake Movies in Realtime](https://deeplivecam.net/index.php/blog/tips-and-tricks/watch-deepfake-movies-in-realtime) - See yourself star in any video without processing the video
-- [Better Quality without Sacrificing Speed](https://deeplivecam.net/index.php/blog/tips-and-tricks/better-quality-without-sacrificing-speed) - Tips for achieving better results without impacting performance
-- [Instant Vtuber!](https://deeplivecam.net/index.php/blog/tips-and-tricks/instant-vtuber) - Create a new persona/vtuber easily using Metahuman Creator
+- **Раскрытие секретов идеального изображения** - Узнайте, как создать лучшую замену лица с полным покрытием головы
+- **Видеозвонки с AI USM** - Сделайте ваши встречи более оживленными, используя AI USM с OBS и программным обеспечением для встреч
+- **Пригласите особого гостя!** - Руководство по использованию сопоставления лиц для добавления особых гостей в ваш стрим
+- **Смотрите фильмы с заменой лиц в реальном времени** - Станьте звездой любого видео без обработки видео
+- **Лучшее качество без потери скорости** - Советы для достижения лучших результатов без влияния на производительность
+- **Мгновенный виртуальный аватар!** - Легко создавайте новую персону/виртуального аватара с помощью Metahuman Creator
 
-Visit our [official blog](https://deeplivecam.net/index.php/blog/tips-and-tricks) for more tips and tutorials.
-
-## Command Line Arguments (Unmaintained)
+## Аргументы командной строки
 
 ```
 options:
-  -h, --help                                               show this help message and exit
-  -s SOURCE_PATH, --source SOURCE_PATH                     select a source image
-  -t TARGET_PATH, --target TARGET_PATH                     select a target image or video
-  -o OUTPUT_PATH, --output OUTPUT_PATH                     select output file or directory
-  --frame-processor FRAME_PROCESSOR [FRAME_PROCESSOR ...]  frame processors (choices: face_swapper, face_enhancer, ...)
-  --keep-fps                                               keep original fps
-  --keep-audio                                             keep original audio
-  --keep-frames                                            keep temporary frames
-  --many-faces                                             process every face
-  --map-faces                                              map source target faces
-  --mouth-mask                                             mask the mouth region
-  --video-encoder {libx264,libx265,libvpx-vp9}             adjust output video encoder
-  --video-quality [0-51]                                   adjust output video quality
-  --live-mirror                                            the live camera display as you see it in the front-facing camera frame
-  --live-resizable                                         the live camera frame is resizable
-  --max-memory MAX_MEMORY                                  maximum amount of RAM in GB
-  --execution-provider {cpu} [{cpu} ...]                   available execution provider (choices: cpu, ...)
-  --execution-threads EXECUTION_THREADS                    number of execution threads
-  -v, --version                                            show program's version number and exit
+  -h, --help                                               показать это сообщение помощи и выйти
+  -s SOURCE_PATH, --source SOURCE_PATH                     выбрать исходное изображение
+  -t TARGET_PATH, --target TARGET_PATH                     выбрать целевое изображение или видео
+  -o OUTPUT_PATH, --output OUTPUT_PATH                     выбрать выходной файл или директорию
+  --frame-processor FRAME_PROCESSOR [FRAME_PROCESSOR ...]  обработчики кадров (варианты: face_swapper, face_enhancer, ...)
+  --keep-fps                                               сохранить оригинальный fps
+  --keep-audio                                             сохранить оригинальное аудио
+  --keep-frames                                            сохранить временные кадры
+  --many-faces                                             обработать каждое лицо
+  --map-faces                                              сопоставить исходные и целевые лица
+  --mouth-mask                                             маскировать область рта
+  --video-encoder {libx264,libx265,libvpx-vp9}             настроить кодировщик выходного видео
+  --video-quality [0-51]                                   настроить качество выходного видео
+  --live-mirror                                            отображение живой камеры как вы видите его в рамке фронтальной камеры
+  --live-resizable                                         рамка живой камеры изменяемого размера
+  --max-memory MAX_MEMORY                                  максимальный объем оперативной памяти в ГБ
+  --execution-provider {cpu} [{cpu} ...]                   доступные провайдеры выполнения (варианты: cpu, ...)
+  --execution-threads EXECUTION_THREADS                    количество потоков выполнения
+  -v, --version                                            показать номер версии программы и выйти
 ```
 
-Looking for a CLI mode? Using the -s/--source argument will make the run program in cli mode.
+Ищете режим командной строки? Использование аргумента -s/--source запустит программу в режиме cli.
 
-## Press
+## Отзывы в прессе
 
-**We are always open to criticism and are ready to improve, that's why we didn't cherry-pick anything.**
+**Мы всегда открыты для критики и готовы совершенствоваться.**
 
- - [*"Deep-Live-Cam goes viral, allowing anyone to become a digital doppelganger"*](https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/) - Ars Technica
- - [*"Thanks Deep Live Cam, shapeshifters are among us now"*](https://dataconomy.com/2024/08/15/what-is-deep-live-cam-github-deepfake/) - Dataconomy
- - [*"This free AI tool lets you become anyone during video-calls"*](https://www.newsbytesapp.com/news/science/deep-live-cam-ai-impersonation-tool-goes-viral/story) - NewsBytes
- - [*"OK, this viral AI live stream software is truly terrifying"*](https://www.creativebloq.com/ai/ok-this-viral-ai-live-stream-software-is-truly-terrifying) - Creative Bloq
- - [*"Deepfake AI Tool Lets You Become Anyone in a Video Call With Single Photo"*](https://petapixel.com/2024/08/14/deep-live-cam-deepfake-ai-tool-lets-you-become-anyone-in-a-video-call-with-single-photo-mark-zuckerberg-jd-vance-elon-musk/) - PetaPixel
- - [*"Deep-Live-Cam Uses AI to Transform Your Face in Real-Time, Celebrities Included"*](https://www.techeblog.com/deep-live-cam-ai-transform-face/) - TechEBlog
- - [*"An AI tool that "makes you look like anyone" during a video call is going viral online"*](https://telegrafi.com/en/a-tool-that-makes-you-look-like-anyone-during-a-video-call-is-going-viral-on-the-Internet/) - Telegrafi
- - [*"This Deepfake Tool Turning Images Into Livestreams is Topping the GitHub Charts"*](https://decrypt.co/244565/this-deepfake-tool-turning-images-into-livestreams-is-topping-the-github-charts) - Emerge
- - [*"New Real-Time Face-Swapping AI Allows Anyone to Mimic Famous Faces"*](https://www.digitalmusicnews.com/2024/08/15/face-swapping-ai-real-time-mimic/) - Digital Music News
- - [*"This real-time webcam deepfake tool raises alarms about the future of identity theft"*](https://www.diyphotography.net/this-real-time-webcam-deepfake-tool-raises-alarms-about-the-future-of-identity-theft/) - DIYPhotography
- - [*"That's Crazy, Oh God. That's Fucking Freaky Dude... That's So Wild Dude"*](https://www.youtube.com/watch?time_continue=1074&v=py4Tc-Y8BcY) - SomeOrdinaryGamers
- - [*"Alright look look look, now look chat, we can do any face we want to look like chat"*](https://www.youtube.com/live/mFsCe7AIxq8?feature=shared&t=2686) - IShowSpeed
+ - [*"AI USM становится вирусным, позволяя каждому стать цифровым двойником"*](https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/) - Ars Technica
+ - [*"Благодаря AI USM, оборотни теперь среди нас"*](https://dataconomy.com/2024/08/15/what-is-deep-live-cam-github-deepfake/) - Dataconomy
+ - [*"Этот бесплатный ИИ-инструмент позволяет вам стать кем угодно во время видеозвонков"*](https://www.newsbytesapp.com/news/science/deep-live-cam-ai-impersonation-tool-goes-viral/story) - NewsBytes
+ - [*"Это вирусное программное обеспечение для прямых трансляций действительно пугает"*](https://www.creativebloq.com/ai/ok-this-viral-ai-live-stream-software-is-truly-terrifying) - Creative Bloq
+ - [*"ИИ-инструмент для дипфейков позволяет стать кем угодно в видеозвонке с помощью всего одной фотографии"*](https://petapixel.com/2024/08/14/deep-live-cam-deepfake-ai-tool-lets-you-become-anyone-in-a-video-call-with-single-photo-mark-zuckerberg-jd-vance-elon-musk/) - PetaPixel
+ - [*"AI USM использует ИИ для преобразования вашего лица в реальном времени, включая знаменитостей"*](https://www.techeblog.com/deep-live-cam-ai-transform-face/) - TechEBlog
+ - [*"Инструмент ИИ, который "делает вас похожим на кого угодно" во время видеозвонка, становится вирусным в сети"*](https://telegrafi.com/en/a-tool-that-makes-you-look-like-anyone-during-a-video-call-is-going-viral-on-the-Internet/) - Telegrafi
+ - [*"Этот инструмент для дипфейков, превращающий изображения в прямые трансляции, возглавляет рейтинги GitHub"*](https://decrypt.co/244565/this-deepfake-tool-turning-images-into-livestreams-is-topping-the-github-charts) - Emerge
+ - [*"Новый ИИ для замены лиц в реальном времени позволяет каждому имитировать знаменитостей"*](https://www.digitalmusicnews.com/2024/08/15/face-swapping-ai-real-time-mimic/) - Digital Music News
+ - [*"Этот инструмент для веб-камеры с дипфейками в реальном времени вызывает тревогу о будущем кражи личности"*](https://www.diyphotography.net/this-real-time-webcam-deepfake-tool-raises-alarms-about-the-future-of-identity-theft/) - DIYPhotography
 
-## Credits
+## Благодарности
 
--   [ffmpeg](https://ffmpeg.org/): for making video-related operations easy
--   [deepinsight](https://github.com/deepinsight): for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models. Please be reminded that the [use of the model is for non-commercial research purposes only](https://github.com/deepinsight/insightface?tab=readme-ov-file#license).
--   [havok2-htwo](https://github.com/havok2-htwo): for sharing the code for webcam
--   [GosuDRM](https://github.com/GosuDRM): for the open version of roop
--   [pereiraroland26](https://github.com/pereiraroland26): Multiple faces support
--   [vic4key](https://github.com/vic4key): For supporting/contributing to this project
--   [kier007](https://github.com/kier007): for improving the user experience
--   [qitianai](https://github.com/qitianai): for multi-lingual support
--   and [all developers](https://github.com/hacksider/Deep-Live-Cam/graphs/contributors) behind libraries used in this project.
--   Footnote: Please be informed that the base author of the code is [s0md3v](https://github.com/s0md3v/roop)
--   All the wonderful users who helped make this project go viral by starring the repo ❤️
+-   [ffmpeg](https://ffmpeg.org/): за упрощение операций, связанных с видео
+-   [deepinsight](https://github.com/deepinsight): за их проект [insightface](https://github.com/deepinsight/insightface), который предоставил хорошо созданную библиотеку и модели. Напоминаем, что [использование модели предназначено только для некоммерческих исследовательских целей](https://github.com/deepinsight/insightface?tab=readme-ov-file#license).
+-   [havok2-htwo](https://github.com/havok2-htwo): за предоставление кода для веб-камеры
+-   И всем разработчикам, стоящим за библиотеками, используемыми в этом проекте.
+-   Всем замечательным пользователям, которые помогли сделать этот проект вирусным ❤️
 
-[![Stargazers](https://reporoster.com/stars/hacksider/Deep-Live-Cam)](https://github.com/hacksider/Deep-Live-Cam/stargazers)
+## Вклады
 
-## Contributions
+Мы приветствуем вклады в развитие проекта AI USM! Если у вас есть идеи по улучшению системы или вы нашли ошибки, пожалуйста, не стесняйтесь создавать issues или pull requests.
 
-![Alt](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg "Repobeats analytics image")
+## Растущая популярность 🚀
 
-## Stars to the Moon 🚀
-
-<a href="https://star-history.com/#hacksider/deep-live-cam&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date" />
- </picture>
-</a>
+Следите за ростом популярности проекта AI USM и присоединяйтесь к нашему сообществу!
