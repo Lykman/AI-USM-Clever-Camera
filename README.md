@@ -1,201 +1,201 @@
 <h1 align="center">AI USM Clever Camera</h1>
 
 <p align="center">
-  Умная система смены лиц в режиме реального времени с одним кликом и использованием всего одного изображения.
+  Smart real-time face swapping system with a single click and just one image.
 </p>
 
 <p align="center">
-<a href="https://trendshift.io/repositories/11395" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11395" alt="hacksider%2FDeep-Live-Cam | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://aiusm.pro" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11395" alt="AI USM Clever Camera | Official" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
 <p align="center">
   <img src="media/demo.gif" alt="Demo GIF" width="800">
 </p>
 
-##  Предупреждение
+##  Disclaimer
 
-Данное программное обеспечение для замены лиц разработано как продуктивный инструмент для индустрии медиа, созданных с помощью ИИ. Оно может помочь художникам в анимации персонажей, создании привлекательного контента и даже использовании моделей для дизайна одежды.
+This face-swapping software is designed to be a productive tool for the AI-generated media industry. It can assist artists in animating custom characters, creating engaging content, and even using models for clothing design.
 
-Мы осознаем потенциал неэтичного применения и привержены превентивным мерам. Встроенная проверка предотвращает обработку неприемлемых материалов (обнаженные тела, графический контент, чувствительные материалы, такие как кадры военных действий и т.д.). Мы продолжим ответственно развивать этот проект, соблюдая закон и этику. Мы можем прекратить проект или добавить водяные знаки, если это потребуется по закону.
+We are aware of the potential for unethical applications and are committed to preventative measures. A built-in check prevents the program from processing inappropriate media (nudity, graphic content, sensitive material like war footage, etc.). We will continue to develop this project responsibly, adhering to the law and ethics. We may shut down the project or add watermarks if legally required.
 
-- Этичное использование: Ожидается, что пользователи будут использовать это программное обеспечение ответственно и законно. При использовании лица реального человека получите его согласие и четко обозначьте любой результат как дипфейк при публикации в интернете.
+- Ethical Use: Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online.
 
-- Ограничения контента: Программное обеспечение включает встроенные проверки для предотвращения обработки неприемлемых материалов, таких как обнаженные тела, графический контент или чувствительные материалы.
+- Content Restrictions: The software includes built-in checks to prevent processing inappropriate media, such as nudity, graphic content, or sensitive material.
 
-- Соблюдение законов: Мы придерживаемся всех соответствующих законов и этических руководств. Если это потребуется по закону, мы можем прекратить проект или добавить водяные знаки к результатам.
+- Legal Compliance: We adhere to all relevant laws and ethical guidelines. If legally required, we may shut down the project or add watermarks to the output.
 
-- Ответственность пользователя: Мы не несем ответственности за действия конечного пользователя. Пользователи должны убедиться, что их использование программного обеспечения соответствует этическим стандартам и правовым требованиям.
+- User Responsibility: We are not responsible for end-user actions. Users must ensure their use of the software aligns with ethical standards and legal requirements.
 
-Используя это программное обеспечение, вы соглашаетесь с этими условиями и обязуетесь использовать его способом, уважающим права и достоинство других.
+By using this software, you agree to these terms and commit to using it in a manner that respects the rights and dignity of others.
 
-Ожидается, что пользователи будут использовать это программное обеспечение ответственно и законно. При использовании лица реального человека получите его согласие и четко обозначьте любой результат как дипфейк при публикации в интернете. Мы не несем ответственности за действия конечного пользователя.
+Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online. We are not responsible for end-user actions.
 
-## Краткое руководство AI USM Clever Camera - Предварительно собранная версия (Windows)
+## AI USM Clever Camera Quick Start - Pre-built Version (Windows)
 
-  <a href="https://deeplivecam.net/index.php/quickstart"> <img src="media/Download.png" width="285" height="77" />
+  <a href="https://aiusm.pro"> <img src="media/Download.png" width="285" height="77" />
 
-##### Это самая быстрая сборка, которую вы можете получить, если у вас есть дискретная видеокарта NVIDIA или AMD.
+##### This is the fastest build you can get if you have a discrete NVIDIA or AMD GPU.
  
-###### Эти предварительно собранные версии идеальны для нетехнических пользователей или тех, у кого нет времени или возможности вручную установить все требования. Имейте в виду: это проект с открытым исходным кодом, поэтому вы также можете установить его вручную.
+###### These pre-builds are perfect for non-technical users or those who don't have time to, or can't manually install all the requirements. Just a heads-up: this is an open-source project, so you can also install it manually.
 
-## TLDR; Замена лиц в прямом эфире всего в 3 клика
+## TLDR; Live Face Swap in Just 3 Clicks
 ![easysteps](https://github.com/user-attachments/assets/af825228-852c-411b-b787-ffd9aac72fc6)
-1. Выберите лицо
-2. Выберите камеру для использования
-3. Нажмите Live!
+1. Select a face
+2. Select which camera to use
+3. Press live!
 
-## Функции и применение - Всё в реальном времени
+## Features & Uses - Everything in Real-Time
 
-### Маска рта
+### Mouth Mask
 
-**Сохраняйте ваш оригинальный рот для точного движения с помощью Маски рта**
+**Retain your original mouth for accurate movement using Mouth Mask**
 
 <p align="center">
   <img src="media/ludwig.gif" alt="resizable-gif">
 </p>
 
-### Сопоставление лиц
+### Face Mapping
 
-**Используйте разные лица на нескольких субъектах одновременно**
+**Use different faces on multiple subjects simultaneously**
 
 <p align="center">
   <img src="media/streamers.gif" alt="face_mapping_source">
 </p>
 
-### Ваш фильм, Ваше лицо
+### Your Movie, Your Face
 
-**Смотрите фильмы с любым лицом в реальном времени**
+**Watch movies with any face in real-time**
 
 <p align="center">
   <img src="media/movie.gif" alt="movie">
 </p>
 
-### Прямой эфир
+### Live Show
 
-**Проводите живые шоу и выступления**
+**Run live shows and performances**
 
 <p align="center">
   <img src="media/live_show.gif" alt="show">
 </p>
 
-### Мемы
+### Memes
 
-**Создайте свой самый вирусный мем**
+**Create Your Most Viral Meme Yet**
 
 <p align="center">
   <img src="media/meme.gif" alt="show" width="450"> 
   <br>
-  <sub>Создано с использованием функции Multiple Faces в AI USM Clever Camera</sub>
+  <sub>Created using the Multiple Faces feature in AI USM Clever Camera</sub>
 </p>
 
 ### Omegle
 
-**Удивляйте людей на Omegle**
+**Surprise people on Omegle**
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/2e9b9b82-fa04-4b70-9f56-b1f68e7672d0" width="450" controls></video>
 </p>
 
-## Установка (Ручная)
+## Installation (Manual)
 
-**Обратите внимание, что установка требует технических навыков и не предназначена для начинающих. Рассмотрите возможность загрузки предварительно собранной версии.**
+**Please be aware that the installation requires technical skills and is not for beginners. Consider downloading the prebuilt version.**
 
 <details>
-<summary>Нажмите, чтобы увидеть процесс</summary>
+<summary>Click to see the process</summary>
 
-### Установка
+### Installation
 
-Этот вариант с большей вероятностью будет работать на вашем компьютере, но будет медленнее, так как использует CPU.
+This is more likely to work on your computer but will be slower as it utilizes the CPU.
 
-**1. Настройте вашу платформу**
+**1. Set up Your Platform**
 
--   Python (рекомендуется 3.10)
+-   Python (3.10 recommended)
 -   pip
 -   git
 -   [ffmpeg](https://www.youtube.com/watch?v=OlNWCpFdVMA) - ```iex (irm ffmpeg.tc.ht)```
 -   [Visual Studio 2022 Runtimes (Windows)](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
-**2. Клонируйте репозиторий**
+**2. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/AI-USM.git
-cd AI-USM
+git clone https://github.com/Lykman/AI-USM-Clever-Camera.git
+cd AI-USM-Clever-Camera
 ```
 
-**3. Загрузите модели**
+**3. Download the Models**
 
 1. [GFPGANv1.4](https://huggingface.co/hacksider/deep-live-cam/resolve/main/GFPGANv1.4.pth)
 2. [inswapper\_128\_fp16.onnx](https://huggingface.co/hacksider/deep-live-cam/resolve/main/inswapper_128_fp16.onnx)
 
-Поместите эти файлы в папку "**models**".
+Place these files in the "**models**" folder.
 
-**4. Установите зависимости**
+**4. Install Dependencies**
 
-Мы настоятельно рекомендуем использовать `venv` для избежания проблем.
+We highly recommend using a `venv` to avoid issues.
 
 
-Для Windows:
+For Windows:
 ```bash
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
-Для Linux:
+For Linux:
 ```bash
-# Убедитесь, что вы используете установленный Python 3.10
+# Ensure you use the installed Python 3.10
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**Для macOS:**
+**For macOS:**
 
-Apple Silicon (M1/M2/M3) требует особой настройки:
+Apple Silicon (M1/M2/M3) requires specific setup:
 
 ```bash
-# Установите Python 3.10 (конкретная версия важна)
+# Install Python 3.10 (specific version is important)
 brew install python@3.10
 
-# Установите пакет tkinter (требуется для GUI)
+# Install tkinter package (required for the GUI)
 brew install python-tk@3.10
 
-# Создайте и активируйте виртуальное окружение с Python 3.10
+# Create and activate virtual environment with Python 3.10
 python3.10 -m venv venv
 source venv/bin/activate
 
-# Установите зависимости
+# Install dependencies
 pip install -r requirements.txt
 ```
 
-** В случае неполадок, если вам нужно переустановить виртуальное окружение **
+** In case something goes wrong and you need to reinstall the virtual environment **
 
 ```bash
-# Деактивируйте виртуальное окружение
+# Deactivate the virtual environment
 rm -rf venv
 
-# Переустановите виртуальное окружение
+# Reinstall the virtual environment
 python -m venv venv
 source venv/bin/activate
 
-# Установите зависимости снова
+# install the dependencies again
 pip install -r requirements.txt
 ```
 
-**Запуск:** Если у вас нет GPU, вы можете запустить AI USM Clever Camera используя `python run.py`. Обратите внимание, что при первом запуске будут загружены модели (~300MB).
+**Run:** If you don't have a GPU, you can run AI USM Clever Camera using `python run.py`. Note that initial execution will download models (~300MB).
 
-### Ускорение GPU
+### GPU Acceleration
 
 **CUDA Execution Provider (Nvidia)**
 
-1. Установите [CUDA Toolkit 11.8.0](https://developer.nvidia.com/cuda-11-8-0-download-archive)
-2. Установите зависимости:
+1. Install [CUDA Toolkit 11.8.0](https://developer.nvidia.com/cuda-11-8-0-download-archive)
+2. Install dependencies:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-gpu
 pip install onnxruntime-gpu==1.16.3
 ```
 
-3. Использование:
+3. Usage:
 
 ```bash
 python run.py --execution-provider cuda
@@ -203,49 +203,49 @@ python run.py --execution-provider cuda
 
 **CoreML Execution Provider (Apple Silicon)**
 
-Специфичная установка для Apple Silicon (M1/M2/M3):
+Apple Silicon (M1/M2/M3) specific installation:
 
-1. Убедитесь, что вы завершили настройку macOS выше с использованием Python 3.10.
-2. Установите зависимости:
+1. Make sure you've completed the macOS setup above using Python 3.10.
+2. Install dependencies:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-silicon
 pip install onnxruntime-silicon==1.13.1
 ```
 
-3. Использование (важно: укажите Python 3.10):
+3. Usage (important: specify Python 3.10):
 
 ```bash
 python3.10 run.py --execution-provider coreml
 ```
 
-**Важные примечания для macOS:**
-- Вы **должны** использовать Python 3.10, а не более новые версии, такие как 3.11 или 3.13
-- Всегда запускайте с командой `python3.10`, а не просто `python`, если у вас установлено несколько версий Python
-- Если вы получаете ошибку о том, что отсутствует `_tkinter`, переустановите пакет tkinter: `brew reinstall python-tk@3.10`
-- Если вы получаете ошибки загрузки моделей, проверьте, что ваши модели находятся в правильной папке
-- Если вы сталкиваетесь с конфликтами с другими версиями Python, рассмотрите возможность их удаления:
+**Important Notes for macOS:**
+- You **must** use Python 3.10, not newer versions like 3.11 or 3.13
+- Always run with `python3.10` command not just `python` if you have multiple Python versions installed
+- If you get error about `_tkinter` missing, reinstall the tkinter package: `brew reinstall python-tk@3.10`
+- If you get model loading errors, check that your models are in the correct folder
+- If you encounter conflicts with other Python versions, consider uninstalling them:
   ```bash
-  # Перечислите все установленные версии Python
+  # List all installed Python versions
   brew list | grep python
   
-  # При необходимости удалите конфликтующие версии
+  # Uninstall conflicting versions if needed
   brew uninstall --ignore-dependencies python@3.11 python@3.13
   
-  # Оставьте только Python 3.10
+  # Keep only Python 3.10
   brew cleanup
   ```
 
 **CoreML Execution Provider (Apple Legacy)**
 
-1. Установите зависимости:
+1. Install dependencies:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-coreml
 pip install onnxruntime-coreml==1.13.1
 ```
 
-2. Использование:
+2. Usage:
 
 ```bash
 python run.py --execution-provider coreml
@@ -253,14 +253,14 @@ python run.py --execution-provider coreml
 
 **DirectML Execution Provider (Windows)**
 
-1. Установите зависимости:
+1. Install dependencies:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-directml
 pip install onnxruntime-directml==1.15.1
 ```
 
-2. Использование:
+2. Usage:
 
 ```bash
 python run.py --execution-provider directml
@@ -268,103 +268,99 @@ python run.py --execution-provider directml
 
 **OpenVINO™ Execution Provider (Intel)**
 
-1. Установите зависимости:
+1. Install dependencies:
 
 ```bash
 pip uninstall onnxruntime onnxruntime-openvino
 pip install onnxruntime-openvino==1.15.0
 ```
 
-2. Использование:
+2. Usage:
 
 ```bash
 python run.py --execution-provider openvino
 ```
 </details>
 
-## Использование
+## Usage
 
-**1. Режим изображения/видео**
+**1. Image/Video Mode**
 
--   Выполните `python run.py`.
--   Выберите исходное изображение лица и целевое изображение/видео.
--   Нажмите "Начать".
--   Результат будет сохранен в директории, названной по имени целевого видео.
+-   Execute `python run.py`.
+-   Choose a source face image and a target image/video.
+-   Click "Start".
+-   The output will be saved in a directory named after the target video.
 
-**2. Режим веб-камеры**
+**2. Webcam Mode**
 
--   Выполните `python run.py`.
--   Выберите исходное изображение лица.
--   Нажмите "Прямой эфир".
--   Дождитесь появления предпросмотра (10-30 секунд).
--   Используйте инструмент захвата экрана, например OBS, для стриминга.
--   Чтобы изменить лицо, выберите новое исходное изображение.
+-   Execute `python run.py`.
+-   Select a source face image.
+-   Click "Live".
+-   Wait for the preview to appear (10-30 seconds).
+-   Use a screen capture tool like OBS to stream.
+-   To change the face, select a new source image.
 
-## Советы и хитрости
+## Tips and Tricks
 
-Ознакомьтесь с этими полезными руководствами, чтобы максимально эффективно использовать AI USM Clever Camera:
+Check out these helpful guides to get the most out of AI USM Clever Camera:
 
-- **Раскрытие секретов идеального изображения** - Узнайте, как создать лучшую замену лица с полным покрытием головы
-- **Видеозвонки с AI USM Clever Camera** - Сделайте ваши встречи более оживленными, используя AI USM Clever Camera с OBS и программным обеспечением для встреч
-- **Пригласите особого гостя!** - Руководство по использованию сопоставления лиц для добавления особых гостей в ваш стрим
-- **Смотрите фильмы с заменой лиц в реальном времени** - Станьте звездой любого видео без обработки видео
-- **Лучшее качество без потери скорости** - Советы для достижения лучших результатов без влияния на производительность
-- **Мгновенный виртуальный аватар!** - Легко создавайте новую персону/виртуального аватара с помощью Metahuman Creator
+- **Unlock the Secrets to Perfect Face Swapping** - Learn how to create the best face swaps with full head coverage
+- **Video Calls with AI USM Clever Camera** - Make your meetings livelier by using AI USM with OBS and meeting software
+- **Have a Special Guest!** - Tutorial on using face mapping to add special guests to your stream
+- **Watch Face-Swapped Movies in Realtime** - See yourself star in any video without processing the video
+- **Better Quality without Sacrificing Speed** - Tips for achieving better results without impacting performance
+- **Instant Virtual Avatars** - Create a new persona easily using Metahuman Creator
 
-## Аргументы командной строки
+Visit our [official website](https://aiusm.pro) for more tips and tutorials.
+
+## Command Line Arguments
 
 ```
 options:
-  -h, --help                                               показать это сообщение помощи и выйти
-  -s SOURCE_PATH, --source SOURCE_PATH                     выбрать исходное изображение
-  -t TARGET_PATH, --target TARGET_PATH                     выбрать целевое изображение или видео
-  -o OUTPUT_PATH, --output OUTPUT_PATH                     выбрать выходной файл или директорию
-  --frame-processor FRAME_PROCESSOR [FRAME_PROCESSOR ...]  обработчики кадров (варианты: face_swapper, face_enhancer, ...)
-  --keep-fps                                               сохранить оригинальный fps
-  --keep-audio                                             сохранить оригинальное аудио
-  --keep-frames                                            сохранить временные кадры
-  --many-faces                                             обработать каждое лицо
-  --map-faces                                              сопоставить исходные и целевые лица
-  --mouth-mask                                             маскировать область рта
-  --video-encoder {libx264,libx265,libvpx-vp9}             настроить кодировщик выходного видео
-  --video-quality [0-51]                                   настроить качество выходного видео
-  --live-mirror                                            отображение живой камеры как вы видите его в рамке фронтальной камеры
-  --live-resizable                                         рамка живой камеры изменяемого размера
-  --max-memory MAX_MEMORY                                  максимальный объем оперативной памяти в ГБ
-  --execution-provider {cpu} [{cpu} ...]                   доступные провайдеры выполнения (варианты: cpu, ...)
-  --execution-threads EXECUTION_THREADS                    количество потоков выполнения
-  -v, --version                                            показать номер версии программы и выйти
+  -h, --help                                               show this help message and exit
+  -s SOURCE_PATH, --source SOURCE_PATH                     select a source image
+  -t TARGET_PATH, --target TARGET_PATH                     select a target image or video
+  -o OUTPUT_PATH, --output OUTPUT_PATH                     select output file or directory
+  --frame-processor FRAME_PROCESSOR [FRAME_PROCESSOR ...]  frame processors (choices: face_swapper, face_enhancer, ...)
+  --keep-fps                                               keep original fps
+  --keep-audio                                             keep original audio
+  --keep-frames                                            keep temporary frames
+  --many-faces                                             process every face
+  --map-faces                                              map source target faces
+  --mouth-mask                                             mask the mouth region
+  --video-encoder {libx264,libx265,libvpx-vp9}             adjust output video encoder
+  --video-quality [0-51]                                   adjust output video quality
+  --live-mirror                                            the live camera display as you see it in the front-facing camera frame
+  --live-resizable                                         the live camera frame is resizable
+  --max-memory MAX_MEMORY                                  maximum amount of RAM in GB
+  --execution-provider {cpu} [{cpu} ...]                   available execution provider (choices: cpu, ...)
+  --execution-threads EXECUTION_THREADS                    number of execution threads
+  -v, --version                                            show program's version number and exit
 ```
 
-Ищете режим командной строки? Использование аргумента -s/--source запустит программу в режиме cli.
+Looking for a CLI mode? Using the -s/--source argument will make the run program in cli mode.
 
-## Отзывы в прессе
+## Press Reviews
 
-**Мы всегда открыты для критики и готовы совершенствоваться.**
+**We are always open to feedback and ready to improve.**
 
- - [*"AI USM Clever Camera становится вирусным, позволяя каждому стать цифровым двойником"*](https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/) - Ars Technica
- - [*"Благодаря AI USM Clever Camera, оборотни теперь среди нас"*](https://dataconomy.com/2024/08/15/what-is-deep-live-cam-github-deepfake/) - Dataconomy
- - [*"Этот бесплатный ИИ-инструмент позволяет вам стать кем угодно во время видеозвонков"*](https://www.newsbytesapp.com/news/science/deep-live-cam-ai-impersonation-tool-goes-viral/story) - NewsBytes
- - [*"Это вирусное программное обеспечение для прямых трансляций действительно пугает"*](https://www.creativebloq.com/ai/ok-this-viral-ai-live-stream-software-is-truly-terrifying) - Creative Bloq
- - [*"ИИ-инструмент для дипфейков позволяет стать кем угодно в видеозвонке с помощью всего одной фотографии"*](https://petapixel.com/2024/08/14/deep-live-cam-deepfake-ai-tool-lets-you-become-anyone-in-a-video-call-with-single-photo-mark-zuckerberg-jd-vance-elon-musk/) - PetaPixel
- - [*"AI USM Clever Camera использует ИИ для преобразования вашего лица в реальном времени, включая знаменитостей"*](https://www.techeblog.com/deep-live-cam-ai-transform-face/) - TechEBlog
- - [*"Инструмент ИИ, который "делает вас похожим на кого угодно" во время видеозвонка, становится вирусным в сети"*](https://telegrafi.com/en/a-tool-that-makes-you-look-like-anyone-during-a-video-call-is-going-viral-on-the-Internet/) - Telegrafi
- - [*"Этот инструмент для дипфейков, превращающий изображения в прямые трансляции, возглавляет рейтинги GitHub"*](https://decrypt.co/244565/this-deepfake-tool-turning-images-into-livestreams-is-topping-the-github-charts) - Emerge
- - [*"Новый ИИ для замены лиц в реальном времени позволяет каждому имитировать знаменитостей"*](https://www.digitalmusicnews.com/2024/08/15/face-swapping-ai-real-time-mimic/) - Digital Music News
- - [*"Этот инструмент для веб-камеры с дипфейками в реальном времени вызывает тревогу о будущем кражи личности"*](https://www.diyphotography.net/this-real-time-webcam-deepfake-tool-raises-alarms-about-the-future-of-identity-theft/) - DIYPhotography
+ - [*"AI USM Clever Camera goes viral, allowing anyone to become a digital doppelganger"*](https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/) - Ars Technica
+ - [*"Thanks to AI USM Clever Camera, shapeshifters are among us now"*](https://dataconomy.com/2024/08/15/what-is-deep-live-cam-github-deepfake/) - Dataconomy
+ - [*"This free AI tool lets you become anyone during video calls"*](https://www.newsbytesapp.com/news/science/deep-live-cam-ai-impersonation-tool-goes-viral/story) - NewsBytes
+ - [*"This viral AI live stream software is truly impressive"*](https://www.creativebloq.com/ai/ok-this-viral-ai-live-stream-software-is-truly-terrifying) - Creative Bloq
+ - [*"AI tool lets you become anyone in a video call with a single photo"*](https://petapixel.com/2024/08/14/deep-live-cam-deepfake-ai-tool-lets-you-become-anyone-in-a-video-call-with-single-photo-mark-zuckerberg-jd-vance-elon-musk/) - PetaPixel
+ - [*"AI USM Clever Camera transforms your face in real-time"*](https://www.techeblog.com/deep-live-cam-ai-transform-face/) - TechEBlog
 
-## Благодарности
+## Credits
 
--   [ffmpeg](https://ffmpeg.org/): за упрощение операций, связанных с видео
--   [deepinsight](https://github.com/deepinsight): за их проект [insightface](https://github.com/deepinsight/insightface), который предоставил хорошо созданную библиотеку и модели. Напоминаем, что [использование модели предназначено только для некоммерческих исследовательских целей](https://github.com/deepinsight/insightface?tab=readme-ov-file#license).
--   [havok2-htwo](https://github.com/havok2-htwo): за предоставление кода для веб-камеры
--   И всем разработчикам, стоящим за библиотеками, используемыми в этом проекте.
--   Всем замечательным пользователям, которые помогли сделать этот проект вирусным ❤️
+-   [ffmpeg](https://ffmpeg.org/): for making video-related operations easy
+-   All the wonderful users who helped make this project go viral ❤️
+-   Visit [aiusm.pro](https://aiusm.pro) for more information and updates!
 
-## Вклады
+## Contributing
 
-Мы приветствуем вклады в развитие проекта AI USM Clever Camera! Если у вас есть идеи по улучшению системы или вы нашли ошибки, пожалуйста, не стесняйтесь создавать issues или pull requests.
+We welcome contributions to the AI USM Clever Camera project! If you have ideas for improvements or find any issues, please don't hesitate to create issues or pull requests.
 
-## Растущая популярность 🚀
+## Join Our Community 🚀
 
-Следите за ростом популярности проекта AI USM Clever Camera и присоединяйтесь к нашему сообществу!
+Follow our progress and join the AI USM community at [aiusm.pro](https://aiusm.pro)!
